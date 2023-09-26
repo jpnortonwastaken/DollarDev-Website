@@ -9,5 +9,5 @@ HTML, TypeScript, SCSS
 
 ## Images
 
-![Screenshot 2023-09-26 at 4 32 24 PM](https://github.com/jpnortonwastaken/dollar-dev-website/assets/132861519/c50957f8-e3d7-4832-a72e-15647d57f325)
-![Screenshot 2023-09-26 at 4 32 39 PM](https://github.com/jpnortonwastaken/dollar-dev-website/assets/132861519/dfdfe3ad-6a69-47d8-ac77-395187d5b139)
+<img width="812" alt="Screenshot 2023-09-26 at 4 36 55 PM" src="https://github.com/jpnortonwastaken/dollar-dev-website/assets/132861519/15ca3532-1233-475d-8a85-eb9dce442dea">
+<img width="812" alt="Screenshot 2023-09-26 at 4 37 21 PM" src="https://github.com/jpnortonwastaken/dollar-dev-website/assets/132861519/cc2ad13d-63f5-4e60-b75b-dac1b702bbef">
